@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RameshrajaDev
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me rameshraja.fullstack@gmail.com
 - 😄 Pronouns: he/him
